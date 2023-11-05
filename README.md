@@ -1,0 +1,1 @@
+# fastapi-postgresql-base-project
